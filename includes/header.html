@@ -19,18 +19,7 @@
 
             <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
               <div class="navbar-nav ">
-                <?php
-                  //SETTING UP HEADER FOR CURRENT ACTIVE PAGE
-                  $pageName = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);  
-                  $getFilename = "";
-                  if($pageName == "lbm.php"){
-                    echo '<a class="nav-item nav-link active" name="lbm.php" href="lbm.php">Lean Body Mass (LBM) Calculator</a>
-                          <a class="nav-item nav-link" name="ticket.php" href="ticket.php">Bus Ticket Price</a>';
-                  }else if($pageName == "ticket.php"){
-                    echo '<a class="nav-item nav-link" name="lbm.php" href="lbm.php">Lean Body Mass (LBM) Calculator</a>
-                          <a class="nav-item nav-link active" name="ticket.php" href="ticket.php">Bus Ticket Price</a>';
-                  }//END IF
-                ?>
+                <a class="nav-item nav-link active" name="lbm.php" href="lbm.php">Lean Body Mass (LBM) Calculator</a>
               </div>
             </div>
           </nav>
