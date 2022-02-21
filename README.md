@@ -5,6 +5,19 @@ Lean Body Mass Calculator (LBM) is a simple PHP program to calculate LBM value b
 The source code has been published on GitHub Repository under  _MIT License_.  <br>
 Please visit  `LICENSE`  file to read the details about the license.
 
+## About the project
+Languages :
+- PHP
+- CSS
+- Javascript
+
+Technologies :
+- Bootstrap 4
+- jQuery 3
+- tsParticles
+
+
+
 ## How to use ?
 1.  Import project file to web server directory.
 2.  Visit  `[URL]/lbm.php`
