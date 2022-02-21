@@ -15,6 +15,7 @@ Technologies :
 - Bootstrap 4
 - jQuery 3
 - tsParticles
+- Font Awesome
 
 
 
