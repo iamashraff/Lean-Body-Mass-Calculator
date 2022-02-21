@@ -1,6 +1,5 @@
 <!-- This page is using Bootstrap 4 CSS Style -->
 <!-- MUHAMAD ASHRAFF BIN OTHMAN -->
-<!-- 52213120560 -->
 <!-- ISB42503 - INTERNET PROGRAMMING -->
 <!-- UNIVERSITI KUALA LUMPUR -->
 <html>
